@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "json-server",
+      "body": "this is 1 json"
+    },
+    {
+      "userId": 1,
+      "id": 1586435045847,
+      "title": "json-server",
+      "body": "this is 2 json"
+    },
+    {
+      "userId": 1,
+      "id": 1586435052455,
+      "title": "json-server",
+      "body": "this is 3 json"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
